@@ -1,0 +1,102 @@
+body{
+    background-image: url(./food.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#class{
+    display: inline-block;
+}
+.class1{
+    display: block;
+    height: 80px;
+    width: 500px;
+    background-color: rgb(21, 20, 21);
+    color: rgb(255, 255, 0);
+    font-style: italic;
+    border-radius: 25px;
+    margin-top: 30px;
+    margin-left: 50px;
+    padding-bottom: 10px;
+    padding-top: 5px;
+    text-align: center;
+
+}
+.class2{
+    height: 60px;
+    width: 400px;
+    background-color: darkcyan;
+    color:black;
+    font-weight: 100;
+    font-style: italic;
+    border-radius: 50px;
+    padding-top: 5px;
+    padding-bottom:5px;
+    margin-left: 800px;
+    margin-top: -80px;
+    display: block;
+    text-align: center;
+
+}
+.main{
+    display: flex;
+    gap: 300px;
+}
+.class3{
+    background-color: antiquewhite;
+    border-radius: 230px;
+    height:300px;
+    width:300px;
+    font-size:25px;
+    padding:40px 36px 30px 50px ;
+    text-align: center;
+    position: relative;
+    left:200px;
+    top:100px;
+   }
+form{
+    background-color: rgb(213, 228, 236);
+    color: blue;
+    margin: 35px;
+    border-radius: 25px;
+    padding: 25px;
+    border-style: dashed;
+
+}
+h1{
+    background-color: black;
+    font-size: 50px;
+    color: brown;
+    text-align: center;
+}
+
+.main1{
+    display: flex;
+justify-content: space-evenly;
+}
+
+.box{
+    background-color: bisque;
+    color: brown;
+    font-style: italic;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    
+    
+}
+.box1{
+    background-color: bisque;
+    color: brown;
+    font-style: italic;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+.box2{
+    background-color: bisque;
+    color: brown;
+    font-style: italic;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
